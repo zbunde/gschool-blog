@@ -1,5 +1,11 @@
 # gSchool Blog
 
+1. Make sure Ruby 2.0 is installed
+
+	```
+	rvm install ruby-2.0.0-p451
+	```
+
 1. Fork the repository to your own account and then clone it to your machine:
 
 	```
