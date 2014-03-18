@@ -10,3 +10,6 @@ It is really nice to be fully immersed in something with a ton of people who are
 every day.
 
 I look forward to the rest of class.
+
+
+
