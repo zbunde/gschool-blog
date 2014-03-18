@@ -11,7 +11,7 @@ every day.
 
 So far we have learned git workflow, HTTP, some ruby, and how to write rspec tests.(I am sure I am forgetting plenty)
 
-I am really excited to get into rails and build some apps. 
+I am really excited to get into rails and build some apps.
 I look forward to the rest of class.
 
 
