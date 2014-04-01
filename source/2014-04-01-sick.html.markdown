@@ -1,0 +1,12 @@
+---
+title: Sick
+date: 2014-04-01 16:58 UTC
+tags:
+---
+
+I got the flu this weekend and spent Monday in bed. I think a plague is going around the class, a few people
+have already gotten sick. I took an assessment on Sinatra from my bed with a 101 degree fever. It went terribly.
+I redid it today and I think it was on point. This week we are finishing our URL shortener project but we are switching
+pairing partners. I am interested to jump onto another anchor for a project and see how they may be building the app
+differently.
+
