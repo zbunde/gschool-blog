@@ -1,7 +1,7 @@
 xml.instruct!
 xml.feed "xmlns" => "http://www.w3.org/2005/Atom" do
-  xml.title "Blog Name"
-  xml.subtitle "Blog subtitle"
+  xml.title "Zach Klabunde blog"
+  xml.subtitle "gSchool blog"
   xml.id "http://blog.url.com/"
   xml.link "href" => "http://blog.url.com/"
   xml.link "href" => "http://blog.url.com/feed.xml", "rel" => "self"
